@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>RecordJSON__c</fullName>
+    <defaultValue>&quot;{&apos;field1&apos;:&apos;value1&apos;, &apos;field2&apos;:&apos;value2&apos;, &apos;field3&apos;:&apos;value3&apos;}&quot;</defaultValue>
+    <externalId>false</externalId>
+    <isFilteringDisabled>false</isFilteringDisabled>
+    <isNameField>false</isNameField>
+    <isSortingDisabled>false</isSortingDisabled>
+    <label>Record JSON</label>
+    <length>131072</length>
+    <type>LongTextArea</type>
+    <visibleLines>3</visibleLines>
+</CustomField>
